@@ -1,6 +1,6 @@
 # DataBoundApp
 
-Este repositorio contiene el proyecto "DataBoundApp", realizado el día 22/12/2021.
+Este repositorio contiene el proyecto "DataBoundApp", realizado el día 22/12/2021 en JDeveloper 12c.
 
 La idea del proyecto es generar un control de datos a partir del bean de servicio. Luego, diseñar dos
 páginas enlazadas a datos simples arrastrando objetos desde el panel Controles de datos. La
